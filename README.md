@@ -1,6 +1,10 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=fecdf3&height=240&text=yoona's%20github&animation=&fontColor=000000&fontSize=60" />
     </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋Hi, I'm Yoona-Choi👋 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #fecdf3;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
